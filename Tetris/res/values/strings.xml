@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">俄罗斯方块</string>
+	<string name="playing">游戏中</string>
+	<string name="ready">就绪</string>
+	<string name="pause">暂停</string>
+	<string name="input_name">输入玩家姓名</string>
+	<string name="button_ok">确定</string>
+	<string name="button_cancel">取消</string>
+	<string name="option_rank">排行榜</string>
+	<string name="option_help">帮助</string>
+	<string name="no_rank">无排行记录</string>
+	<string name="help_message">向上 - 暂停或者开始\n向下 - 砖块快速落下\n左移 - 向左移动砖块 \n右移 - 向右移动砖块\n 点击屏幕 - 砖块变形\n</string>
+	<string name="quit">退出</string>
+</resources>
